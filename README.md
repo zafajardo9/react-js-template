@@ -41,7 +41,7 @@ npm install -D tailwindcss postcss autoprefixer
 ### **Tailwind initialization**
 
 ```bash
-npx tailwindcss init -p
+npm install tailwindcss @tailwindcss/vite
 ```
 
 ---
